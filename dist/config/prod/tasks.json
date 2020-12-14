@@ -1,0 +1,17 @@
+[
+    {
+        "stores": {
+            "bestbuy": {
+                "products": [
+                    {
+                        "searchText": "Sony - PlayStation 5 Console",
+                        "sku": "6426149",
+                        "model": "3005718",
+                        "productName": "Sony - PlayStation 5 Console",
+                        "productPage": "/site/sony-playstation-5-console/6426149.p?skuId=6426149"
+                    }
+                ]
+            }
+        }
+    }
+]

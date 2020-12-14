@@ -1,0 +1,56 @@
+2020-12-14T06:33:54.192Z [32minfo[39m: Starting purchase attempts
+2020-12-14T06:34:01.909Z [32minfo[39m: Navigating to https://bestbuy.com/site/nvidia-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6429440.p?skuId=6429440
+2020-12-14T06:34:04.468Z [32minfo[39m: Navigation completed
+2020-12-14T06:34:04.469Z [32minfo[39m: Validating that page corresponds to sku 6429440
+2020-12-14T06:34:04.502Z [32minfo[39m: Page corresponds to sku 6429440
+2020-12-14T06:34:04.507Z [32minfo[39m: Checking stock of product "NVIDIA GeForce RTX 3080 10GB GDDR6X PCI Express 4.0  Graphics Card - Titanium and Black"
+2020-12-14T06:34:04.531Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:34:04.531Z [32minfo[39m: Navigating to https://bestbuy.com/site/evga-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card/6436194.p?skuId=6436194
+2020-12-14T06:34:07.703Z [32minfo[39m: Navigation completed
+2020-12-14T06:34:07.704Z [32minfo[39m: Validating that page corresponds to sku 6436194
+2020-12-14T06:34:07.816Z [32minfo[39m: Page corresponds to sku 6436194
+2020-12-14T06:34:07.819Z [32minfo[39m: Checking stock of product "EVGA - GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Graphics Card"
+2020-12-14T06:34:07.871Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:34:07.872Z [33mwarn[39m: Purchase not completed, waiting 13000 ms before retrying
+2020-12-14T06:34:22.187Z [32minfo[39m: Navigating to https://bestbuy.com/site/nvidia-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6429440.p?skuId=6429440
+2020-12-14T06:34:24.361Z [32minfo[39m: Navigation completed
+2020-12-14T06:34:24.361Z [32minfo[39m: Validating that page corresponds to sku 6429440
+2020-12-14T06:34:24.511Z [32minfo[39m: Page corresponds to sku 6429440
+2020-12-14T06:34:24.515Z [32minfo[39m: Checking stock of product "NVIDIA GeForce RTX 3080 10GB GDDR6X PCI Express 4.0  Graphics Card - Titanium and Black"
+2020-12-14T06:34:24.570Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:34:24.570Z [32minfo[39m: Navigating to https://bestbuy.com/site/evga-geforce-rtx-3080-10gb-gddr6x-pci-express-4-0-graphics-card/6436194.p?skuId=6436194
+2020-12-14T06:34:27.413Z [32minfo[39m: Navigation completed
+2020-12-14T06:34:27.413Z [32minfo[39m: Validating that page corresponds to sku 6436194
+2020-12-14T06:34:27.537Z [32minfo[39m: Page corresponds to sku 6436194
+2020-12-14T06:34:27.541Z [32minfo[39m: Checking stock of product "EVGA - GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Graphics Card"
+2020-12-14T06:34:27.551Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:34:27.551Z [33mwarn[39m: Purchase not completed, waiting 19549 ms before retrying
+2020-12-14T06:39:54.641Z [32minfo[39m: Starting purchase attempts
+2020-12-14T06:40:00.671Z [32minfo[39m: Navigating to https://bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149
+2020-12-14T06:40:03.407Z [32minfo[39m: Navigation completed
+2020-12-14T06:40:03.407Z [32minfo[39m: Validating that page corresponds to sku 6426149
+2020-12-14T06:40:03.499Z [32minfo[39m: Page corresponds to sku 6426149
+2020-12-14T06:40:03.503Z [32minfo[39m: Checking stock of product "Sony - PlayStation 5 Console"
+2020-12-14T06:40:03.526Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:40:03.527Z [33mwarn[39m: Purchase not completed, waiting 11012 ms before retrying
+2020-12-14T06:40:15.745Z [32minfo[39m: Navigating to https://bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149
+2020-12-14T06:40:18.074Z [32minfo[39m: Navigation completed
+2020-12-14T06:40:18.074Z [32minfo[39m: Validating that page corresponds to sku 6426149
+2020-12-14T06:40:18.237Z [32minfo[39m: Page corresponds to sku 6426149
+2020-12-14T06:40:18.242Z [32minfo[39m: Checking stock of product "Sony - PlayStation 5 Console"
+2020-12-14T06:40:18.285Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:40:18.285Z [33mwarn[39m: Purchase not completed, waiting 29952 ms before retrying
+2020-12-14T06:40:49.357Z [32minfo[39m: Navigating to https://bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149
+2020-12-14T06:40:52.020Z [32minfo[39m: Navigation completed
+2020-12-14T06:40:52.021Z [32minfo[39m: Validating that page corresponds to sku 6426149
+2020-12-14T06:40:52.139Z [32minfo[39m: Page corresponds to sku 6426149
+2020-12-14T06:40:52.143Z [32minfo[39m: Checking stock of product "Sony - PlayStation 5 Console"
+2020-12-14T06:40:52.179Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:40:52.179Z [33mwarn[39m: Purchase not completed, waiting 14091 ms before retrying
+2020-12-14T06:41:07.189Z [32minfo[39m: Navigating to https://bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149
+2020-12-14T06:41:09.129Z [32minfo[39m: Navigation completed
+2020-12-14T06:41:09.129Z [32minfo[39m: Validating that page corresponds to sku 6426149
+2020-12-14T06:41:09.226Z [32minfo[39m: Page corresponds to sku 6426149
+2020-12-14T06:41:09.230Z [32minfo[39m: Checking stock of product "Sony - PlayStation 5 Console"
+2020-12-14T06:41:09.253Z [31merror[39m: Product not in stock, aborting attempt
+2020-12-14T06:41:09.253Z [33mwarn[39m: Purchase not completed, waiting 26410 ms before retrying

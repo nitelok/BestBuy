@@ -6,6 +6,7 @@
 </p>
 
 > Autonomously buy NVIDIA RTX 30 Series GPUs from Best Buy
+> Changed to PS5 bot, do not have GIF yet
 
 ## Demo
 ![](bestbuysniperdemo.gif)

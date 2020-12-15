@@ -358,9 +358,9 @@ export class BestBuy {
 
     // *** UNCOMMENT THIS SECTION TO ENABLE AUTO-CHECKOUT ***
 
-    // if (!!placeOrderButton) {
-    //   await page.click('.button--place-order button.btn-primary');
-    // }
+     if (!!placeOrderButton) {
+       await page.click('.button--place-order button.btn-primary');
+     }
 
     await wait(3000);
 
